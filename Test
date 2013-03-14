@@ -7,7 +7,7 @@ $ touch ReDo
 $ git add hello.rb 
 
 M  hello.rb
-$ git commit -m 'my hola mundo changes'
+
 
 
 

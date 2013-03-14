@@ -1,4 +1,3 @@
-
 $ git init
 # Sets up the necessary Git files
 Initialized empty Git repository in /Users/you/Hello-World/.git/
@@ -6,4 +5,5 @@ Initialized empty Git repository in /Users/you/Hello-World/.git/
 $ touch ReDo
 #Creates a file called "Redo" in your Hello-World directory
 
+$ git commit -a
 

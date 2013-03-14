@@ -10,7 +10,7 @@ M  hello.rb
 $ git commit -m 'my hola mundo changes'
 
 
-$ git commit -a
+
 
 
 

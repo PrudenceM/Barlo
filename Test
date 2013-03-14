@@ -5,7 +5,7 @@ Initialized empty Git repository in /Users/you/Hello-World/.git/
 $ touch ReDo
 #Creates a file called "Redo" in your Hello-World directory
 $ git add hello.rb 
-$ git status -s
+
 M  hello.rb
 $ git commit -m 'my hola mundo changes'
 
